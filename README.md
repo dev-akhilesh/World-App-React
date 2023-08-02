@@ -78,13 +78,13 @@ Start the server
 
 ![worldXplorer Desktop View](/src/images/country-shimmer-darkmode.png)
 
-#### Search Functionality - Homepage(Lightmode)
+#### Search Functionality
 
-![worldXplorer Desktop View](/src/images/shimmer-light.png)
+![worldXplorer Desktop View](/src/images/search-functionality.png)
 
-#### Shimmer Effect - Homepage(Lightmode)
+#### Filter Functionality
 
-![worldXplorer Desktop View](/src/images/shimmer-light.png)
+![worldXplorer Desktop View](/src/images/filter-functionality.png)
 
 ### Mobile View
 
